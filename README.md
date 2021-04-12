@@ -1,5 +1,5 @@
 ## Hi there!:wave: I'm Paul, Thanks for visiting my GitHub Profile! 
-![Python](https://img.shields.io/badge/python-v3.0%2B-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-orange)
+![Python](https://img.shields.io/badge/python-v3.0%2B-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-orange) ![HTML5](https://img.shields.io/badge/HTML-HTML5-blue) ![CSS3](https://img.shields.io/badge/CSS-CSS3-red)
 
 ### I am a Junior Software Developer :computer:, currently studying fullstack software development focusing on HTML, CSS, Javascript, and Python. I am also gaining experience with Bootstrap, jQuery, and Flask as well as others as I progress. Feel free to check out some of my projects below and feel free to star,fork them or send me a message. 
 
