@@ -10,7 +10,6 @@
 <img src="https://icongr.am/devicon/heroku-plain-wordmark.svg?size=128&color=98a9a7" alt="heroku" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="40px" height="40px" />
 <img src="https://icongr.am/simple/flask.svg?size=128&color=ada9a9&colored=false" alt="Flask logo" width="40px" height="40px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" />
 <img src="https://icongr.am/simple/jinja.svg?size=128&color=ada9a9&colored=false" alt="jinja" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="40px" height="40px" /></p>
  
