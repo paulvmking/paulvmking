@@ -6,6 +6,7 @@
 #### Other Technologies 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=922fb6" alt="bootstrap" width="40" height="40"/>
+<img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="materialize" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="40px" height="40px" />
 <img src="https://icongr.am/devicon/heroku-plain-wordmark.svg?size=128&color=98a9a7" alt="heroku" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="40px" height="40px" />
