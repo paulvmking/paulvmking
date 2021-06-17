@@ -12,7 +12,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="40px" height="40px" />
 <img src="https://icongr.am/simple/flask.svg?size=128&color=ada9a9&colored=false" alt="Flask logo" width="40px" height="40px" />
 <img src="https://icongr.am/simple/jinja.svg?size=128&color=ada9a9&colored=false" alt="jinja" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="40px" height="40px" /></p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="40px" height="40px" />
+<img src="https://e1.pngegg.com/pngimages/451/111/png-clipart-clay-os-6-a-macos-icon-balsamiq-mockups-smiley-logo-icon.png?size=128&color=98a9a7" alt="balsamiq" width="40" height="40"/></p>
  
 ### I am a Junior Software Developer :computer:, currently studying fullstack software development focusing on HTML, CSS, Javascript, and Python. I am also gaining experience with Bootstrap, jQuery, and Flask as well as others as I progress. Feel free to check out some of my projects below and feel free to star,fork them or send me a message. 
 
