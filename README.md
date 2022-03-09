@@ -13,8 +13,9 @@
 <img src="https://icongr.am/simple/flask.svg?size=128&color=ada9a9&colored=false" alt="Flask logo" width="40px" height="40px" />
 <img src="https://icongr.am/simple/jinja.svg?size=128&color=ada9a9&colored=false" alt="jinja" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="40px" height="40px" />
-<img src="https://raw.githubusercontent.com/Sayan3990/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="MongoDB logo" width="40px" height="40px" />
-<img src="https://raw.githubusercontent.com/Sayan3990/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" alt="jinja" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Sayan3990/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="40px" height="40px" />
+<img src="https://raw.githubusercontent.com/Sayan3990/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Sayan3990/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 <img src="https://e1.pngegg.com/pngimages/451/111/png-clipart-clay-os-6-a-macos-icon-balsamiq-mockups-smiley-logo-icon.png" alt="balsamiq" width="40" height="40"/></p>
 
 #### OS
