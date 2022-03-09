@@ -5,6 +5,9 @@
 
 #### Other Technologies 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" alt="sqlite" width="40" height="40"/>
+<img src="https://library.kissclipart.com/20181109/ve/kissclipart-db-browser-for-sqlite-logo-clipart-sqlite-database-d255d022071fa374.jpg" alt="dbbrowser" width="40" height="40"/>
+ <img src="https://thumbnail.imgbin.com/1/17/8/imgbin-organization-brand-logo-product-design-virtualbox-vm-6uKVCXWD1FyRv1tW69ribA2cy_t.jpg" alt="virtualbox" width="40" height="40"/>
 <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=922fb6" alt="bootstrap" width="40" height="40"/>
 <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="materialize" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="40px" height="40px" />
