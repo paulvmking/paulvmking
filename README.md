@@ -17,7 +17,7 @@
 
 #### OS
 <p><img src="https://www.logo.wine/a/logo/Windows_7/Windows_7-Logo.wine.svg" alt="windows" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png" alt="windows" width="40" height="40"/>
+<img src="https://pngset.com/images/linux-logo-linux-logo-background-sack-bag-fire-lcd-screen-transparent-png-1379344.png" alt="windows" width="40" height="40"/>
  
 </p>
 
