@@ -19,7 +19,7 @@
 
 #### OS
 <p><img src="https://www.logo.wine/a/logo/Windows_7/Windows_7-Logo.wine.svg" alt="windows" width="40" height="40"/>
-<img src="https://pngset.com/images/linux-logo-linux-logo-background-sack-bag-fire-lcd-screen-transparent-png-1379344.png" alt="windows" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Sayan3990/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" alt="windows" width="40" height="40"/>
  
 </p>
 
