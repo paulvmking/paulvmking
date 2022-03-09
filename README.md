@@ -14,6 +14,9 @@
 <img src="https://icongr.am/simple/jinja.svg?size=128&color=ada9a9&colored=false" alt="jinja" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="40px" height="40px" />
 <img src="https://e1.pngegg.com/pngimages/451/111/png-clipart-clay-os-6-a-macos-icon-balsamiq-mockups-smiley-logo-icon.png" alt="balsamiq" width="40" height="40"/></p>
+
+#### OS
+<img src="<img src="https://www.logo.wine/a/logo/Windows_7/Windows_7-Logo.wine.svg" alt="windows" width="40" height="40"/>
  
 ### I am a Junior Software Developer :computer:, currently studying fullstack software development focusing on HTML, CSS, Javascript, and Python. I am also gaining experience with Bootstrap, jQuery, and Flask as well as others as I progress. Feel free to check out some of my projects below and feel free to star,fork them or send me a message. 
 
