@@ -26,7 +26,7 @@
 </p>
 
  
-### I am an Software Development Apprentice @ Google :computer:, currently studying C#, Linux and networks. Feel free to check out some of my projects below and feel free to star,fork them or send me a message. 
+### I am a 2nd year Software Development Apprentice @ Google :computer:, currently training in Site Reliability Engineering & its practices. Feel free to check out some of my projects below and feel free to star,fork them or send me a message. 
 
 ### Thanks for stopping by!! 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paulvmking.paulvmking) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-king-615786163/)
